@@ -41,7 +41,7 @@
     <visual>
       <origin rpy="1.57079632679 0 -1.57079632679" xyz="0.26 0.345 -0.91488"/>
       <geometry>
-        <mesh filename="meshes/sawyer_pv/pedestal.STL"/>
+        <mesh filename="meshes/sawyer_pv/pedestal.stl"/>
       </geometry>
       <material name="darkgray">
         <color rgba=".2 .2 .2 1"/>
@@ -95,7 +95,7 @@
     <visual>
       <origin rpy="1.57079632679 0 -1.57079632679" xyz="0.26 0.345 -0.91488"/>
       <geometry>
-        <mesh filename="meshes/sawyer_pv/pedestal.STL"/>
+        <mesh filename="meshes/sawyer_pv/pedestal.stl"/>
       </geometry>
       <material name="darkgray">
         <color rgba=".2 .2 .2 1"/>
@@ -163,7 +163,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/sawyer_pv/base.STL"/>
+        <mesh filename="meshes/sawyer_pv/base.stl"/>
       </geometry>
       <material name="red">
         <color rgba=".5 .1 .1 1"/>
@@ -185,7 +185,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/sawyer_mp3/l0.STL"/>
+        <mesh filename="meshes/sawyer_mp3/l0.stl"/>
       </geometry>
       <material name="red">
         <color rgba=".5 .1 .1 1"/>
@@ -217,7 +217,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/sawyer_pv/head.STL"/>
+        <mesh filename="meshes/sawyer_pv/head.stl"/>
       </geometry>
       <material name="red">
         <color rgba=".5 .1 .1 1"/>
@@ -264,7 +264,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/sawyer_mp3/l1.STL"/>
+        <mesh filename="meshes/sawyer_mp3/l1.stl"/>
       </geometry>
       <material name="red">
         <color rgba=".5 .1 .1 1"/>
@@ -296,7 +296,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/sawyer_pv/l2.STL"/>
+        <mesh filename="meshes/sawyer_pv/l2.stl"/>
       </geometry>
       <material name="red">
         <color rgba=".5 .1 .1 1"/>
@@ -328,7 +328,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/sawyer_pv/l3.STL"/>
+        <mesh filename="meshes/sawyer_pv/l3.stl"/>
       </geometry>
       <material name="red">
         <color rgba=".5 .1 .1 1"/>
@@ -360,7 +360,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/sawyer_pv/l4.STL"/>
+        <mesh filename="meshes/sawyer_pv/l4.stl"/>
       </geometry>
       <material name="red">
         <color rgba=".5 .1 .1 1"/>
@@ -407,7 +407,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/sawyer_pv/l5.STL"/>
+        <mesh filename="meshes/sawyer_pv/l5.stl"/>
       </geometry>
       <material name="red">
         <color rgba=".5 .1 .1 1"/>
@@ -453,7 +453,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/sawyer_mp1/l6.STL"/>
+        <mesh filename="meshes/sawyer_mp1/l6.stl"/>
       </geometry>
       <material name="red">
         <color rgba=".5 .1 .1 1"/>
