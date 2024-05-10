@@ -24,7 +24,7 @@
         <visual>
             <origin rpy="1.57079632679 0 -1.57079632679" xyz="0.26 0.345 -0.91488"/>
             <geometry>
-                <mesh filename="meshes/doosan_pedestal/pedestal.STL"/>
+                <mesh filename="meshes/doosan_pedestal/pedestal.stl"/>
             </geometry>
             <material name="darkgray">
                 <color rgba=".2 .2 .2 1"/>
